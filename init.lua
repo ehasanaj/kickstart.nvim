@@ -569,7 +569,7 @@ require('lazy').setup({
         gopls = {},
         pyright = {},
         rust_analyzer = {},
-        java_language_server = {},
+        jdtls = {},
         kotlin_language_server = {},
 
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
